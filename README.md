@@ -1,6 +1,11 @@
 # Kaya AI Bitcoin Wallet Balance Checker
 Kaya AI Bitcoin Wallet Balance Checker is an application that checks the balances of Bitcoin wallets on the Network. This tool allows users to query the balances of specified Bitcoin wallet addresses. All you need is a list of wallet addresses.
 
+![Kaya AI Demo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzVncHVncWE3eWdhZjFyajQzdGJnb2ZnZm1hbHp4bzNka3gyNzM1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8C4mFuOE6KCjg7UQ7t/giphy.gif)
+
+
+Virus Total: [Click here](https://www.virustotal.com/gui/file/c967c871ec00211427088d8a137ca2c2776eb9c8c4512dd606d1de7f8378aec0/detection)
+
 ## **Usage:**
 
 Requirements for using the project:
