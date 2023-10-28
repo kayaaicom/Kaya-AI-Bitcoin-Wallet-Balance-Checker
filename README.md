@@ -35,9 +35,6 @@ As the developer of this tool, I do not accept any responsibility for its illega
 #### **License:**
 This project is licensed under the MIT license.
 
-[Official Site](https://kaya-ai.com)
-
-
 All tools and information contained herein are presented or made available for the sole purpose of securing legal remedies. I do not undertake any illegal action on your part. FOR PURELY EDUCATIONAL PURPOSES.
 
 #bitcoin #blockchain #btc #kayaai #kayaaicom #balance #checker
